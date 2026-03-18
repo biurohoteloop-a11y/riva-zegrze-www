@@ -25,7 +25,7 @@ const APARTMENTS = [
   {
     id: "A.13",
     price: "Zapytaj o cenę",
-    image: "/images/apartments/a13.jpg",
+    image: "/images/apartments/A13.jpg",
     status: "Wolne",
     statusColor: "bg-emerald-600",
     floor: "1",
@@ -38,7 +38,7 @@ const APARTMENTS = [
   {
     id: "A.16",
     price: "Zapytaj o cenę",
-    image: "/images/apartments/a16.jpg",
+    image: "/images/apartments/A16.jpg",
     status: "Wolne",
     statusColor: "bg-emerald-600",
     floor: "1",
