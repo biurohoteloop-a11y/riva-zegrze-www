@@ -1,0 +1,492 @@
+[
+  {
+    "id": "A.1",
+    "area": "86,89 m²",
+    "status": "Sprzedane",
+    "floor": "1",
+    "rooms": "3",
+    "additional_area": "Taras: 38,39m2 Ogródek: 43,69m2",
+    "building": "A",
+    "price": "-"
+  },
+  {
+    "id": "A.2",
+    "area": "56,00 m²",
+    "status": "Sprzedane",
+    "floor": "1",
+    "rooms": "2",
+    "additional_area": "Taras: 19,79m2 Ogródek: 17,65m2",
+    "building": "A",
+    "price": "-"
+  },
+  {
+    "id": "A.3",
+    "area": "69,63 m²",
+    "status": "Dostępny",
+    "floor": "1",
+    "rooms": "2",
+    "additional_area": "Taras: 34,21m2 Ogródek: 39,82m2",
+    "building": "A",
+    "price": "Zapytaj o cenę"
+  },
+  {
+    "id": "A.4",
+    "area": "100,53 m²",
+    "status": "Sprzedane",
+    "floor": "2",
+    "rooms": "3",
+    "additional_area": "Taras: 24,72m2",
+    "building": "A",
+    "price": "-"
+  },
+  {
+    "id": "A.5",
+    "area": "97,98 m²",
+    "status": "Sprzedane",
+    "floor": "2",
+    "rooms": "3",
+    "additional_area": "Taras: 22,68m2",
+    "building": "A",
+    "price": "-"
+  },
+  {
+    "id": "A.6",
+    "area": "56,02 m²",
+    "status": "Dostępny",
+    "floor": "2",
+    "rooms": "2",
+    "additional_area": "Taras: 5,97m2",
+    "building": "A",
+    "price": "Zapytaj o cenę"
+  },
+  {
+    "id": "A.7",
+    "area": "72,61 m²",
+    "status": "Dostępny",
+    "floor": "2",
+    "rooms": "2",
+    "additional_area": "Taras: 9,90m2",
+    "building": "A",
+    "price": "Zapytaj o cenę"
+  },
+  {
+    "id": "A.8",
+    "area": "78,41 m²",
+    "status": "Dostępny",
+    "floor": "2",
+    "rooms": "2",
+    "additional_area": "Taras: 21,77m2",
+    "building": "A",
+    "price": "Zapytaj o cenę"
+  },
+  {
+    "id": "A.9",
+    "area": "101,37 m²",
+    "status": "Sprzedane",
+    "floor": "3",
+    "rooms": "3",
+    "additional_area": "Taras: 23,22m2",
+    "building": "A",
+    "price": "-"
+  },
+  {
+    "id": "A.10",
+    "area": "97,09 m²",
+    "status": "Sprzedane",
+    "floor": "3",
+    "rooms": "3",
+    "additional_area": "Taras: 23,42m2",
+    "building": "A",
+    "price": "-"
+  },
+  {
+    "id": "A.11",
+    "area": "55,96 m²",
+    "status": "Dostępny",
+    "floor": "3",
+    "rooms": "2",
+    "additional_area": "Taras: 5,97m2",
+    "building": "A",
+    "price": "Zapytaj o cenę"
+  },
+  {
+    "id": "A.12",
+    "area": "72,60 m²",
+    "status": "Dostępny",
+    "floor": "3",
+    "rooms": "2",
+    "additional_area": "Taras: 9,71m2",
+    "building": "A",
+    "price": "Zapytaj o cenę"
+  },
+  {
+    "id": "A.13",
+    "area": "77,19 m²",
+    "status": "Dostępny",
+    "floor": "3",
+    "rooms": "2",
+    "additional_area": "Taras: 23,29m2",
+    "building": "A",
+    "price": "Zapytaj o cenę"
+  },
+  {
+    "id": "A.14",
+    "area": "200,24 m²",
+    "status": "Sprzedane",
+    "floor": "4",
+    "rooms": "4",
+    "additional_area": "Taras: 86,03m2",
+    "building": "A",
+    "price": "-"
+  },
+  {
+    "id": "A.15",
+    "area": "119,69 m²",
+    "status": "Sprzedane",
+    "floor": "4",
+    "rooms": "2",
+    "additional_area": "Taras: 48,89m2",
+    "building": "A",
+    "price": "-"
+  },
+  {
+    "id": "A.16",
+    "area": "115,29 m²",
+    "status": "Dostępny",
+    "floor": "4",
+    "rooms": "2",
+    "additional_area": "Taras: 51,35m2",
+    "building": "A",
+    "price": "Zapytaj o cenę"
+  },
+  {
+    "id": "B.1",
+    "area": "60,10 m²",
+    "status": "Dostępny",
+    "floor": "1",
+    "rooms": "2",
+    "additional_area": "Taras: 32,05m2 Ogródek: 40,41m2",
+    "building": "B",
+    "price": "Zapytaj o cenę"
+  },
+  {
+    "id": "B.2",
+    "area": "68,42 m²",
+    "status": "Sprzedane",
+    "floor": "1",
+    "rooms": "3",
+    "additional_area": "Taras: 43,16m2 Ogródek: 60,21m2",
+    "building": "B",
+    "price": "-"
+  },
+  {
+    "id": "B.3",
+    "area": "69,30 m²",
+    "status": "Sprzedane",
+    "floor": "1",
+    "rooms": "2",
+    "additional_area": "Taras: 35,23m2 Ogródek: 19,08m2",
+    "building": "B",
+    "price": "-"
+  },
+  {
+    "id": "B.4",
+    "area": "64,89 m²",
+    "status": "Sprzedane",
+    "floor": "1",
+    "rooms": "2",
+    "additional_area": "Taras: 30,76 m2 Ogródek: 54,22m2",
+    "building": "B",
+    "price": "-"
+  },
+  {
+    "id": "B.5",
+    "area": "62,05 m²",
+    "status": "Dostępny",
+    "floor": "2",
+    "rooms": "2",
+    "additional_area": "Taras: 17,55m2",
+    "building": "B",
+    "price": "Zapytaj o cenę"
+  },
+  {
+    "id": "B.6",
+    "area": "70,42 m²",
+    "status": "Sprzedane",
+    "floor": "2",
+    "rooms": "3",
+    "additional_area": "Taras: 18,76m2",
+    "building": "B",
+    "price": "-"
+  },
+  {
+    "id": "B.7",
+    "area": "67,78 m²",
+    "status": "Sprzedane",
+    "floor": "2",
+    "rooms": "2",
+    "additional_area": "Taras: 21,14m2",
+    "building": "B",
+    "price": "-"
+  },
+  {
+    "id": "B.8",
+    "area": "63,38 m²",
+    "status": "Sprzedane",
+    "floor": "2",
+    "rooms": "2",
+    "additional_area": "Taras: 16,70m2",
+    "building": "B",
+    "price": "-"
+  },
+  {
+    "id": "B.9",
+    "area": "68,09 m²",
+    "status": "Sprzedane",
+    "floor": "3",
+    "rooms": "3",
+    "additional_area": "Taras: 20,67m2",
+    "building": "B",
+    "price": "-"
+  },
+  {
+    "id": "B.10",
+    "area": "66,45 m²",
+    "status": "Sprzedane",
+    "floor": "3",
+    "rooms": "2",
+    "additional_area": "Taras: 22,52m2",
+    "building": "B",
+    "price": "-"
+  },
+  {
+    "id": "B.11",
+    "area": "129,38 m²",
+    "status": "Dostępny",
+    "floor": "3",
+    "rooms": "4",
+    "additional_area": "Taras: 30,91m2",
+    "building": "B",
+    "price": "Zapytaj o cenę"
+  },
+  {
+    "id": "B.12",
+    "area": "114,45 m²",
+    "status": "Sprzedane",
+    "floor": "4",
+    "rooms": "4",
+    "additional_area": "Taras: 69,51m2",
+    "building": "B",
+    "price": "-"
+  },
+  {
+    "id": "B.13",
+    "area": "107,15 m²",
+    "status": "Sprzedane",
+    "floor": "4",
+    "rooms": "3",
+    "additional_area": "Taras: 60,95m2",
+    "building": "B",
+    "price": "-"
+  },
+  {
+    "id": "C.1",
+    "area": "38,10 m²",
+    "status": "Sprzedane",
+    "floor": "1",
+    "rooms": "2",
+    "additional_area": "Taras: 25,42m2 Ogródek: 29,81m2",
+    "building": "C",
+    "price": "-"
+  },
+  {
+    "id": "C.2",
+    "area": "63,88 m²",
+    "status": "Sprzedane",
+    "floor": "1",
+    "rooms": "2",
+    "additional_area": "Taras: 38,59m2 Ogródek: 22,69m2",
+    "building": "C",
+    "price": "-"
+  },
+  {
+    "id": "C.3",
+    "area": "80,35 m²",
+    "status": "Sprzedane",
+    "floor": "1",
+    "rooms": "3",
+    "additional_area": "Taras: 53,21m2 Ogródek: 55,75m2",
+    "building": "C",
+    "price": "-"
+  },
+  {
+    "id": "C.4",
+    "area": "36,25 m²",
+    "status": "Sprzedane",
+    "floor": "2",
+    "rooms": "2",
+    "additional_area": "Taras: 7,97m2",
+    "building": "C",
+    "price": "-"
+  },
+  {
+    "id": "C.5",
+    "area": "68,24 m²",
+    "status": "Sprzedane",
+    "floor": "2",
+    "rooms": "2",
+    "additional_area": "Taras: 19,34m2",
+    "building": "C",
+    "price": "-"
+  },
+  {
+    "id": "C.6",
+    "area": "80,38 m²",
+    "status": "Sprzedane",
+    "floor": "2",
+    "rooms": "3",
+    "additional_area": "Taras: 19,57m2",
+    "building": "C",
+    "price": "-"
+  },
+  {
+    "id": "C.7",
+    "area": "38,10 m²",
+    "status": "Sprzedane",
+    "floor": "3",
+    "rooms": "2",
+    "additional_area": "Taras: 5,99m2",
+    "building": "C",
+    "price": "-"
+  },
+  {
+    "id": "C.8",
+    "area": "68,25 m²",
+    "status": "Sprzedane",
+    "floor": "3",
+    "rooms": "2",
+    "additional_area": "Taras: 19,34m2",
+    "building": "C",
+    "price": "-"
+  },
+  {
+    "id": "C.9",
+    "area": "74,38 m²",
+    "status": "Sprzedane",
+    "floor": "3",
+    "rooms": "3",
+    "additional_area": "Taras: 19,34m2",
+    "building": "C",
+    "price": "-"
+  },
+  {
+    "id": "C.10",
+    "area": "155,55 m²",
+    "status": "Sprzedane",
+    "floor": "4",
+    "rooms": "4",
+    "additional_area": "Taras: 112,82m2",
+    "building": "C",
+    "price": "-"
+  },
+  {
+    "id": "D.1",
+    "area": "36,81 m²",
+    "status": "Sprzedane",
+    "floor": "1",
+    "rooms": "2",
+    "additional_area": "Taras: 7,46m2",
+    "building": "D",
+    "price": "-"
+  },
+  {
+    "id": "D.2",
+    "area": "67,83 m²",
+    "status": "Sprzedane",
+    "floor": "1",
+    "rooms": "2",
+    "additional_area": "Taras: 20,13m2",
+    "building": "D",
+    "price": "-"
+  },
+  {
+    "id": "D.3",
+    "area": "80,34 m²",
+    "status": "Sprzedane",
+    "floor": "1",
+    "rooms": "3",
+    "additional_area": "Taras: 45,82m2 Ogródek: 43,33m2",
+    "building": "D",
+    "price": "-"
+  },
+  {
+    "id": "D.4",
+    "area": "36,86 m²",
+    "status": "Sprzedane",
+    "floor": "2",
+    "rooms": "2",
+    "additional_area": "Taras: 7,14m2",
+    "building": "D",
+    "price": "-"
+  },
+  {
+    "id": "D.5",
+    "area": "63,46 m²",
+    "status": "Sprzedane",
+    "floor": "2",
+    "rooms": "2",
+    "additional_area": "Taras: 23,50m2",
+    "building": "D",
+    "price": "-"
+  },
+  {
+    "id": "D.6",
+    "area": "80,40 m²",
+    "status": "Sprzedane",
+    "floor": "2",
+    "rooms": "3",
+    "additional_area": "Taras: 19,57m2",
+    "building": "D",
+    "price": "-"
+  },
+  {
+    "id": "D.7",
+    "area": "36,11 m²",
+    "status": "Sprzedane",
+    "floor": "3",
+    "rooms": "2",
+    "additional_area": "Taras: 7,90m2",
+    "building": "D",
+    "price": "-"
+  },
+  {
+    "id": "D.8",
+    "area": "67,81 m²",
+    "status": "Sprzedane",
+    "floor": "3",
+    "rooms": "2",
+    "additional_area": "Taras: 19,34m2",
+    "building": "D",
+    "price": "-"
+  },
+  {
+    "id": "D.9",
+    "area": "74,40 m²",
+    "status": "Sprzedane",
+    "floor": "3",
+    "rooms": "3",
+    "additional_area": "Taras: 21,01m2",
+    "building": "D",
+    "price": "-"
+  },
+  {
+    "id": "D.10",
+    "area": "155,35 m²",
+    "status": "Sprzedane",
+    "floor": "4",
+    "rooms": "4",
+    "additional_area": "Taras: 112,82m2",
+    "building": "D",
+    "price": "-"
+  }
+]
