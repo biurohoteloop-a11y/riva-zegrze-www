@@ -75,12 +75,12 @@ export default function ApartmentDetails({ params }: { params: Promise<{ id: str
     : apartment.id === "A.13"
     ? [
         { src: "/images/apartments/T3S-RivaZegrze-4168-m.jpg", alt: "Widok 1" },
-        { src: "/images/apartments/A13.jpg", alt: "Wizualizacja A.13" },
+        { src: "/images/apartments/apartament13.jpg", alt: "Wizualizacja A.13" },
       ]
     : apartment.id === "A.16"
     ? [
         { src: "/images/apartments/T3S-RivaZegrze-4168-m.jpg", alt: "Widok 1" },
-        { src: "/images/apartments/A16.jpg", alt: "Wizualizacja A.16" },
+        { src: "/images/apartments/apartament16.jpg", alt: "Wizualizacja A.16" },
       ]
     : apartment.id === "B.1"
     ? [
